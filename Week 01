@@ -1,0 +1,27 @@
+# Week 01
+
+## Day 1 (July 5)
+
+What is one thing you’re proud of learning or building today?
+
+I am proud that of building this website from scratch. I love that I have stopped to as questions along the way. I feel like I have found a way to study that helps it click. I am excited for what is next and am proud of my interest and dedication today.
+
+## Day 2 (July 6)
+
+In your own words, describe one concept that really clicked for you today. What made it make sense — was it a visual analogy, coding it yourself, or something else?
+
+Wrappers: I learned to think of them as ziplock baggies for a project. For example, if I was trying to arrange content on a poster board, I might use a wrapper ‘ziploc bag’ to arrange the sections in the way I want them to sit without being interrupted by the rest of the project content.
+
+## Day 3 (July 8)
+
+**July 8th Reflection:**
+
+What’s one thing that felt confusing at first today but now makes more sense? And how will you apply that understanding tomorrow as you keep building?
+
+I was confused by the JS structure but now it makes sense to think about what I want it to do… I wanted this to run only after the toggle has been triggered.”
+
+## Day 4 (July 9)
+
+What do I now understand about how data flows through React components?
+
+React flows downward from parent to child. I understand now that when importing data, it's important to import that data at the top of the structure to feed into the array or data model.
