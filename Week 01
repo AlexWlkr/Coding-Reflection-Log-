@@ -25,3 +25,9 @@ I was confused by the JS structure but now it makes sense to think about what I 
 What do I now understand about how data flows through React components?
 
 React flows downward from parent to child. I understand now that when importing data, it's important to import that data at the top of the structure to feed into the array or data model.
+
+## Day 5 (July 10)
+What was the most confusing part of this lesson, and what helped you finally start to understand it?
+The most confusing part of this lesson was breaking down keys, maps, and props. Especially in terms of syntax, naming conventions, and their different purposes. For example in this line of code:
+[const renderNameTag = (name) => <NameTag name={name.person} key={name.id} />;]
+I have a better understanding of what’s happening here. We are calling a function, renderNameTag, to render the UI element of NameTag with the name of the person based on the dataset of objects that include a name and ID number. name is a prop. name is an object.
