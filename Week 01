@@ -31,3 +31,15 @@ What was the most confusing part of this lesson, and what helped you finally sta
 The most confusing part of this lesson was breaking down keys, maps, and props. Especially in terms of syntax, naming conventions, and their different purposes. For example in this line of code:
 [const renderNameTag = (name) => <NameTag name={name.person} key={name.id} />;]
 I have a better understanding of what’s happening here. We are calling a function, renderNameTag, to render the UI element of NameTag with the name of the person based on the dataset of objects that include a name and ID number. name is a prop. name is an object.
+
+## Day 6 (July 11)
+Today I struggled with learnig the stateful components. A little brain foggy but tomorrow I'm working more on my portfolio site and will hop back in to stateful componenets next week with new vigor.
+
+## Day 7 (July 12)
+What did today teach you about how you handle problem-solving when things don’t work right away? How does that connect to the kind of developer (or person) you want to become?
+Today, I reminded myself how much I enjoy debugging. I learn more about my code while debugging it than I do while writing it. When things don’t work right, there’s always a solution — and that’s one of the reasons I’m making the jump from social media to software development. I love that logic and reasoning are firm and concrete. I love having tools to use.
+Social media has tools too, of course — and algorithms that are also concrete in their own way. But there is something so satisfying about just using a hammer and a nail on a broken plank. Simple. Fix. Done.
+The kind of developer and person I want to be is someone who embraces challenges and issues in code. Someone who looks for meaning and purpose behind why something isn’t working — and then searches for the most logical and efficient path to fixing it.
+
+There is just as much creativity in that process as there is in working with a blank page.
+
