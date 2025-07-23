@@ -1,3 +1,10 @@
 ## Day 14 (July 21)
 Closing out my portfolio building sprint with my 3rd project - a real dashboard for Baltimoreans to locate mental health resources by program type, accesibility, and audience. 
 I'm tired. I'm still motivated. I'm proud. 
+
+## Day 16 (July 23)
+Today I solved a real layout challenge by switching the orientation of my accessibility chart. The x-axis labels weren't rendering. 
+Which is apparently a common bug. I really want to focus on accessibility and making sure all the data is as transparent as possible. 
+I played around with a few different fixes at first, some more destructive than others and ultimately landed on the simplest solution. 
+I love how versatile debugging is. The more I practice and the more I grow, the more I will be able to find the most efficient path from problem A to point B. 
+After coming from a social media manager role, this kind of logic and efficiency excites me. 
